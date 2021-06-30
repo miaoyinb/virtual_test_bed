@@ -22,6 +22,8 @@ Users will need to request access to the controlled NEAMS software from the [Nuc
 
 [Heat-Pipe Micro Reactor (MR)](mrad/index.md)
 
+[Pebble Bed Modular Reactor (PBMR)](pbmr/index.md)
+
 For contributing a new model, please review the [contribution guidelines](contributing.md).
 
 !alert note
