@@ -88,7 +88,7 @@ the $k-\tau$ application and validation in fuel rod bundles.
 
 A 2-D axisymmetric core model is first studied with the Nek5000 RANS solver.
 Based on the core dimensions listed in the
-[description of the reactor](msfr/reactor_description.md), 
+[description of the reactor](msfr/reactor_description.md),
 a 2-D geometric model is generated using the open source meshing software,
 [GMSH](https://gmsh.info/).  The entire model include the core region
 and part of the inlet and outlet channels. A pure hexahedral mesh is produced
@@ -97,7 +97,7 @@ to facilitate the axisymmetric solver in Nek5000, the core centerline is assigne
 along the x direction. The molten salt flow comes from the bottom channel (low x side)
 and exits from the other side.
 
-!media msfr_nek_mesh.jpg
+!media /msfr/nek/msfr_nek_mesh.jpg
     style=width:80%
     id=msfr_mesh
     caption=The computational grid of 2-D MSFR core.
