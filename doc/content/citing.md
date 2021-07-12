@@ -42,10 +42,21 @@ the following:
 !alert construction title=In preparation
 
 
-- High Temperature Gas Reactor
+- High Temperature Gas Reactor : PBMR-400 numerical benchmark
+
+```
+@article{balestra2021,
+         title = {PBMR-400 benchmark solution of exercise 1 and 2 using the moose based applications: MAMMOTH, Pronghorn},
+         author = {Paolo Balestra and Sebastian Schunert and Robert W Carlsen and April J Novak and Mark D DeHart and Richard C Martineau},
+         year = {2021},
+         journal = {EPJ Web of Conferences},
+         pages = {247}
+       }
+```
+
+- Modular High Temperature Gas Reactor (SAM model)
 
 !alert construction title=In preparation
-
 
 ## Software
 
