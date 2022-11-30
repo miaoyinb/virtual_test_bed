@@ -8,7 +8,7 @@
 [Mesh]
   [loader]
     type = FileMeshGenerator
-    file = '../mesh/HPMR_OneSixth_Core_meshgenerator_tri_rotate_bdry.e'
+    file = '../mesh/gold/HPMR_OneSixth_Core_meshgenerator_tri_rotate_bdry.e'
   []
   [id]
     type = SubdomainExtraElementIDGenerator

@@ -20,7 +20,7 @@ corr_factor = ${fparse R_hp_hole / R_clad_o * area_correction / perimeter_correc
 [Mesh]
   [fmg]
     type = FileMeshGenerator
-    file = '../mesh/HPMR_OneSixth_Core_meshgenerator_tri_rotate_bdry.e'
+    file = '../mesh/gold/HPMR_OneSixth_Core_meshgenerator_tri_rotate_bdry.e'
   []
   # Delete the heat pipe blocks as they are taken care of by Sockeye
   [bdg]
