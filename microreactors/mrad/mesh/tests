@@ -6,7 +6,7 @@
         exodiff = 'HPMR_OneSixth_Core_meshgenerator_tri_rotate_bdry.e'
         exodiff_opts = '-pedantic'
         executable_pattern = 'griffin*|blue_crab*|dire_wolf*'
-        cli_args = "--mesh-only "HPMR_OneSixth_Core_meshgenerator_tri_rotate_bdry.e"
+        cli_args = "--mesh-only 'HPMR_OneSixth_Core_meshgenerator_tri_rotate_bdry.e'"
         recover = false
     []
 []    
